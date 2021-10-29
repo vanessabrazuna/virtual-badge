@@ -117,21 +117,3 @@ li a:hover {
     margin-top: .8rem;
   }
 }
-
-/*
-@media (min-width: 960px) {
-  main {
-    background: url(images/background-desktop.svg) no-repeat center/cover;
-    min-height: 740px;
-  }
-
-  p {
-    margin-top: 1.5rem;
-    font-size: .9rem;
-  }
-
-  ul {
-    margin-top: .8rem;
-  }
-}
-*/
