@@ -114,10 +114,11 @@ li a:hover {
   }
 
   ul {
-    margin-top: 1rem;
+    margin-top: .8rem;
   }
 }
 
+/*
 @media (min-width: 960px) {
   main {
     background: url(images/background-desktop.svg) no-repeat center/cover;
@@ -130,6 +131,7 @@ li a:hover {
   }
 
   ul {
-    margin-top: 1rem;
+    margin-top: .8rem;
   }
 }
+*/
