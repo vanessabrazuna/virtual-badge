@@ -35,6 +35,8 @@ O Crachá virtual DoWhile é uma aplicação estática com o objetivo de mostrar
 - [x] Font Awesome
 - [x] GitHub API
 
+---
 
+Feito com 💙 by Vanessa Brazuna
 
 
