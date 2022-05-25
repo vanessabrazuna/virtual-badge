@@ -1,10 +1,10 @@
 <h1 align="center">
-  Crachá Virtual DoWhile 2021
+  DoWhile Virtual Badge 2021
 </h1>
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-libraries">Libraries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -13,9 +13,9 @@
   <img alt="dev.finances" src="https://raw.githubusercontent.com/jakeliny/nlw-heat-origin/main/.github/nlw-heat.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
@@ -23,13 +23,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 💻 Projeto
+## 💻 Project
 
-O Crachá virtual DoWhile é uma aplicação estática com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-las em um layout com a cara do evento DoWhile 2021 da Rocketseat.
-
+The DoWhile Virtual Badge is a static application with the aim of displaying user information brought from the GitHub API and inserting it into a layout with the face of Rocketseat's DoWhile 2021 event.
 <br>
 
-## 📚 Bibliotecas
+## 📚 Libraries
 
 - [x] Google Fonts
 - [x] Font Awesome
@@ -37,6 +36,6 @@ O Crachá virtual DoWhile é uma aplicação estática com o objetivo de mostrar
 
 ---
 
-Feito com 💙 by Vanessa Brazuna
+Made with 💙 by Vanessa Brazuna
 
 
