@@ -1,6 +1,9 @@
 <h1 align="center">
   Virtual Badge
 </h1>
+
+![Cover](./.github/cover.png)
+
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
