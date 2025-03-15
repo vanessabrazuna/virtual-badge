@@ -10,12 +10,6 @@
   <a href="#-libraries">Libraries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="virtual.badge" src="https://raw.githubusercontent.com/jakeliny/nlw-heat-origin/main/.github/nlw-heat.png" width="100%">
-</p>
-
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
