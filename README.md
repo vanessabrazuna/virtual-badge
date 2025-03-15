@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://raw.githubusercontent.com/jakeliny/nlw-heat-origin/main/.github/nlw-heat.png" width="100%">
+  <img alt="virtual.badge" src="https://raw.githubusercontent.com/jakeliny/nlw-heat-origin/main/.github/nlw-heat.png" width="100%">
 </p>
 
 ## 🚀 Technologies
